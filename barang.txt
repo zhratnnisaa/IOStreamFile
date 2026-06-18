@@ -1,0 +1,5 @@
+Laptop ASUS Vivobook;8500000.0;5
+Mouse Wireless Logitech;150000.0;15
+Keyboard Mekanikal;450000.0;8
+Monitor LED 24 Inch;1750000.0;4
+Headset Gaming RGB;320000.0;10
