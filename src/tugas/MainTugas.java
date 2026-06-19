@@ -1,7 +1,7 @@
 package tugas;
 
 /**
- * Nama : Zahratunnisa
+ * Nama : Zahratunnisa*
  * NPM  : 2410010299
  */
 public class MainTugas {
